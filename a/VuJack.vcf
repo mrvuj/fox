@@ -8,9 +8,8 @@ TEL;TYPE=CELL:+1 (310) 853-2136
 TEL;TYPE=WORK,VOICE:+1 (310) 369-0913
 URL;CHARSET=UTF-8:https://fox.itsv.me
 LABEL;CHARSET=UTF-8;TYPE=WORK:FOX
-ADR;CHARSET=UTF-8;TYPE=WORK:;;10201 W. Pico Blvd., Bldg. 99, Ste. 460;Los Angeles;CA;90064;USA
-TITLE;CHARSET=UTF-8:Special Projects Manager
-ORG;CHARSET=UTF-8:FOX Global Security Operations
-X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/jack-v/
+ADR;CHARSET=UTF-8;TYPE=WORK:;;10201 W. Pico Blvd.;Los Angeles;CA;90064;USA
+TITLE;CHARSET=UTF-8:Manager, Strategic Initiatives and Procurement
+ORG;CHARSET=UTF-8:FOX Corporate Security
 REV:2022-07-03T03:14:33.830Z
 END:VCARD
